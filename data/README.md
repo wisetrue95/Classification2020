@@ -17,7 +17,7 @@
 
     - val 예시
 
-        ![./Untitled 1.png](./Untitled 1.png)
+        ![./Untitled1.png](./Untitled1.png)
 
     - Imagenet_val_setup.sh 를 실행하면 Val 폴더 역시 train 폴더 같이 폴더별로 정리된다.
 
