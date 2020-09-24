@@ -13,11 +13,11 @@
 
     - train set 예시
 
-        ![ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled.png](ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled.png)
+        ![./Untitled.png](./Untitled.png)
 
     - val 예시
 
-        ![ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%201.png](ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%201.png)
+        ![./Untitled 1.png](./Untitled 1.png)
 
     - Imagenet_val_setup.sh 를 실행하면 Val 폴더 역시 train 폴더 같이 폴더별로 정리된다.
 
@@ -33,12 +33,12 @@
 - issue 1 : crane 중복
     - 변경
 
-        ![ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%202.png](ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%202.png)
+        ![./crane_bird.png](./crane_bird.png)
 
 - issue 2: maillot 중복
     - 변경
 
-        ![ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%203.png](ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%203.png)
+        ![./maillot.png](./maillot.png)
 
 - imagenet_data_prep.py
 - 이미지넷 데이터는 폴더명이 n03857828 같이 분류되어 있다. 폴더명을 라벨명으로 변환 해줘야 한다.
@@ -48,7 +48,7 @@
 
 - 실행 전→후
 
-![ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%204.png](ImageNet2012%20Dataset%20Preprocessiong%20877fcf7b8ed94267a2368f55e47e50f6/Untitled%204.png)
+![./Untitled4.png](./Untitled4.png)
 
 # 3. Convert to TFRecord
 
