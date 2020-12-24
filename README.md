@@ -1,8 +1,6 @@
 Image Classification on ImageNet
 ================================
 
-* 2020 인공신경망 수업 프로젝트 주제 <Image Classification on ImageNet>  
-* Image Classification의 대표 논문들을 구현해보고 성능 개선하기
 
 
 
